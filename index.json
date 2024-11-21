@@ -1,0 +1,92 @@
+[
+    {
+        "firstName":"Matthew",
+        "lastName":"Brown",
+        "favHobby":"Squash",
+        "criminal":false,
+        "dreamCars":[
+            {
+                "carname":"Vroom Vroom",
+                "enginCapacity":2,
+                "model":"Cardboard Box"
+            },
+            {
+                "carname":"Zoom Zoom",
+                "enginCapacity":1,
+                "model":"Plastic Box"
+            }
+        ]
+    },
+    {
+        "firstName":"Luke",
+        "lastName":"Smart",
+        "favHobby":"Fishing",
+        "criminal":false,
+        "dreamCars":[
+            {
+                "carname":"VW",
+                "enginCapacity":2,
+                "model":"Citi Golf"
+            },
+            {
+                "carname":"Nissan",
+                "enginCapacity":1,
+                "model":"s14"
+            }
+        ]
+    },
+    {
+        "firstName":"Juan",
+        "lastName":"Edeams",
+        "favHobby":"Navigating trecherous terrain",
+        "criminal":true,
+        "dreamCars":[
+            {
+                "carname":"iSuzu",
+                "enginCapacity":3,
+                "model":"KB300"
+            },
+            {
+                "carname":"Mitsubishi",
+                "enginCapacity":2,
+                "model":"Evo 10"
+            }
+        ]
+    },
+    {
+        "firstName":"William",
+        "lastName":"September",
+        "favHobby":"Sex",
+        "criminal":true,
+        "dreamCars":[
+            {
+                "carname":"Opel",
+                "enginCapacity":1,
+                "model":"Corsa"
+            },
+            {
+                "carname":"Audi",
+                "enginCapacity":2,
+                "model":"RS3"
+            }
+        ]
+    },
+    {
+        "firstName":"Eliase",
+        "lastName":"Kehayas",
+        "favHobby":"Ark Survival Evolved",
+        "criminal":false,
+        "dreamCars":[
+            {
+                "carname":"Mercedes",
+                "enginCapacity":2,
+                "model":"w123"
+            },
+            {
+                "carname":"BMW",
+                "enginCapacity":2,
+                "model":"X3"
+            }
+        ]
+    }
+]
